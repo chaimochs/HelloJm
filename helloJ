@@ -1,0 +1,12 @@
+<html>
+	<body>
+		<h1>Hello, Jerusalem</h1>
+		<div>
+			function hello(){
+				alert("Shalom, Jerusalem");
+				return 0;
+					}
+			hello();
+		</div>
+</html>
+
